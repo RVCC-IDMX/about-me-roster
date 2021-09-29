@@ -12,7 +12,7 @@ classRoster.forEach((student) => {
     <div class="links">
     <p class="repo"><a target="_blank" href="https://github.com/rvcc-idmx/about-me-${student.github_username}">${student.identifier}</a></p>
 
-    <p class="site"><a target="_blank" href="https://about-me-${student.github_username}.netlify.app">${student.identifier}</a></p>
+    <p class="site"><a target="_blank" href="https://about-me-${student.github_username}.netlify.app">https://about-me-${student.github_username}.netlify.app"</a></p>
 
     </div>
     `;
