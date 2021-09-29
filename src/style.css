@@ -1,0 +1,56 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 2rem;
+  font-family: sans-serif;
+  flex-direction: column;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.container {
+  border: 2px solid #ccc;
+  width: 60%;
+}
+
+.site,
+.repo {
+  text-align: center;
+}
+.roster li {
+  padding: 1rem 4rem;
+  list-style: none;
+}
+.roster li:nth-child(odd) {
+  background-color: #f0f0f0;
+}
+
+.links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  justify-content: space-between;
+}
+
+footer {
+  padding: 1rem;
+}
