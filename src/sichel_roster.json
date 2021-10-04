@@ -1,86 +1,62 @@
 [
- {
-   "identifier": "Bryon Beaufait",
-   "github_username": "BryonB88",
-   "github_id": 90058334,
-   "name": "Bryon Beaufait"
- },
- {
-   "identifier": "Cynthia Teeters",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Deon Martin",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Gokul Ram",
-   "github_username": "agokulram1",
-   "github_id": 52551290,
-   "name": "Gokul Ram"
- },
- {
-   "identifier": "Jessica Nagar",
-   "github_username": "jessica-nagar",
-   "github_id": 77754279,
-   "name": ""
- },
- {
-   "identifier": "Josh Gershfeld",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Lea Burlew",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Lynn Sichel",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Michael Bernstein",
-   "github_username": "picklesauce",
-   "github_id": 90295919,
-   "name": "Mike"
- },
- {
-   "identifier": "Muhammad Sajeel",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Paul Davies",
-   "github_username": "PaulD-13",
-   "github_id": 89885786,
-   "name": ""
- },
- {
-   "identifier": "Robert James Tallafer",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Steven Caruso",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- },
- {
-   "identifier": "Test Student",
-   "github_username": "",
-   "github_id": null,
-   "name": ""
- }
+  {
+    "identifier": "Bryon Beaufait",
+    "github_username": "BryonB88",
+    "github_id": 90058334,
+    "name": "Bryon Beaufait"
+  },
+  {
+    "identifier": "Deon Martin",
+    "github_username": "",
+    "github_id": null,
+    "name": ""
+  },
+  {
+    "identifier": "Gokul Ram",
+    "github_username": "agokulram1",
+    "github_id": 52551290,
+    "name": "Gokul Ram"
+  },
+  {
+    "identifier": "Jessica Nagar",
+    "github_username": "jessica-nagar",
+    "github_id": 77754279,
+    "name": ""
+  },
+  {
+    "identifier": "Josh Gershfeld",
+    "github_username": "gersh123",
+    "github_id": 91707222,
+    "name": ""
+  },
+  {
+    "identifier": "Lea Burlew",
+    "github_username": "",
+    "github_id": null,
+    "name": ""
+  },
+  {
+    "identifier": "Michael Bernstein",
+    "github_username": "picklesauce",
+    "github_id": 90295919,
+    "name": "Mike"
+  },
+  {
+    "identifier": "Muhammad Sajeel",
+    "github_username": "",
+    "github_id": null,
+    "name": ""
+  },
+  {
+    "identifier": "Paul Davies",
+    "github_username": "PaulD-13",
+    "github_id": 89885786,
+    "name": ""
+  },
+  {
+    "identifier": "Robert James Tallafer",
+    "github_username": "",
+    "github_id": null,
+    "name": ""
+  }
 ]
